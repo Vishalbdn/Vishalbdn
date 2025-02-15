@@ -9,8 +9,8 @@
 
 <h3 align="left">Connect with me :</h3>
 <p align="left">
-    <a href=" https://www.linkedin.com/in/vishal-gupta-587933294/ " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vinod-barti-339571268" height="30" width="40" /></a>
-      <a href="  https://www.facebook.com/share/161ehEua7b/ " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vinodsingh.barti" height="30" width="40" /></a>
+    <a href="https://www.linkedin.com/in/vishal-gupta-587933294/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vinod-barti-339571268" height="30" width="40" /></a>
+      <a href="https://www.facebook.com/share/161ehEua7b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vinodsingh.barti" height="30" width="40" /></a>
 <!--       <a href="https://instagram.com/___deeppak_3__9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="___deeppak_3__9" height="30" width="40" /></a> -->
 <!--       <a href="https://medium.com/@vinodsinghbarti420" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@vinodsinghbarti420" height="30" width="40" /></a> -->
 <!--       <a href="https://www.leetcode.com/33_deeppak_33" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="33_deeppak_33" height="30" width="40" /></a> -->
